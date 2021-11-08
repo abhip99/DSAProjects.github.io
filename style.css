@@ -1,0 +1,43 @@
+
+*{
+    background-color: #b5aeae;
+}
+
+h2{
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 47px;
+}
+
+#description{
+    text-align: center;
+    font-size: x-large;
+}
+
+.projects-container{
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.project{
+    width: 409px;
+    margin-right: -410px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.caption{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+}
